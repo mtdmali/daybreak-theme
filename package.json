@@ -2,9 +2,14 @@
   "name": "daybreak-theme",
   "author": "Mike Mali <michaeltdmali@gmail.com> (http://twitter.com/mtdmali)",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtdmali/daybreak-theme"
+  },
   "license": "MIT",
   "displayName": "Daybreak",
-  "description": "I will fill this in later.",
+  "description": "A Visual Studio Code theme for those who stay up through the night.",
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.36.0"
   },
