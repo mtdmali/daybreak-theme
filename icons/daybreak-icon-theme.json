@@ -1,0 +1,132 @@
+{
+  "iconDefinitions": {
+    "folder": {
+      "iconPath": "./folder.svg"
+    },
+    "folder.expanded": {
+      "iconPath": "./folder-expanded.svg"
+    },
+    "document": {
+      "iconPath": "./document.svg"
+    },
+    "image": {
+      "iconPath": "./image.svg"
+    },
+    "code": {
+      "iconPath": "./code.svg"
+    },
+    "curly": {
+      "iconPath": "./curly.svg"
+    },
+    "bracket": {
+      "iconPath": "./bracket.svg"
+    },
+    "lisp": {
+      "iconPath": "./lisp.svg"
+    },
+    "lambda": {
+      "iconPath": "./lambda.svg"
+    },
+    "style": {
+      "iconPath": "./style.svg"
+    },
+    "console": {
+      "iconPath": "./console.svg"
+    },
+    "markdown": {
+      "iconPath": "./markdown.svg"
+    }
+  },
+  "folder": "folder",
+  "folderExpanded": "folder.expanded",
+  "file": "document",
+  "fileExtensions": {
+    "json": "curly",
+    "c": "code",
+    "h": "code",
+    "hpp": "code",
+    "hxx": "code",
+    "hh": "code",
+    "cpp": "code",
+    "cc": "code",
+    "cxx": "code",
+    "js": "code",
+    "jsx": "bracket",
+    "mjs": "code",
+    "svg": "bracket",
+    "html": "bracket",
+    "htm": "bracket",
+    "css": "style",
+    "sass": "style",
+    "scss": "style",
+    "less": "style",
+    "cs": "code",
+    "fs": "code",
+    "go": "code",
+    "lua": "code",
+    "rs": "code",
+    "py": "code",
+    "rb": "code",
+    "jl": "code",
+    "php": "code",
+    "haxe": "code",
+    "hxml": "code",
+    "java": "code",
+    "ts": "code",
+    "d.ts": "code",
+    "vue": "code",
+    "xml": "bracket",
+    "coffee": "code",
+    "litcoffee": "code",
+    "ex": "code",
+    "exs": "code",
+    "clj": "lisp",
+    "cljs": "lisp",
+    "tsx": "code",
+    "yml": "bracket",
+    "yaml": "bracket",
+    "ss": "code",
+    "scm": "code",
+    "lisp": "lisp",
+    "lsp": "lisp",
+    "l": "lisp",
+    "cl": "lisp",
+    "fasl": "lisp",
+    "el": "lisp",
+    "elc": "lisp",
+    "hs": "lambda",
+    "lhs": "lambda",
+    "idr": "code",
+    "v": "code",
+    "ml": "code",
+    "mli": "code",
+    "mll": "code",
+    "pro": "code",
+    "P": "code",
+    "elm": "code",
+    "purs": "code",
+    "erl": "code",
+    "swift": "code",
+    "tex": "code",
+    "vb": "code",
+    "jade": "code",
+    "pug": "code",
+    "scala": "code",
+    "sh": "console",
+    "zsh": "console",
+    "bash": "console",
+    "fish": "console",
+    "elv": "console",
+    "bat": "console",
+    "cmd": "console",
+    "ps1": "console",
+    "jpeg": "image",
+    "jpg": "image",
+    "gif": "image",
+    "png": "image",
+    "bmp": "image",
+    "ico": "image",
+    "md": "markdown"
+  },
+  "hidesExplorerArrows": true
+}

@@ -1,0 +1,9 @@
+{
+  "key": "value",
+  "key2": true,
+  "key3": ["a", "b", "c"],
+  "key4": {
+    "a": true,
+    "b": false
+  }
+}

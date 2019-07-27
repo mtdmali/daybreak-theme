@@ -1,0 +1,28 @@
+{
+  "name": "daybreak-theme",
+  "displayName": "Daybreak",
+  "description": "I will fill this in later.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Daybreak",
+        "uiTheme": "vs-dark",
+        "path": "./themes/daybreak-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "Daybreak",
+        "label": "Daybreak",
+        "path": "./icons/daybreak-icon-theme.json"
+      }
+    ]
+  }
+}
