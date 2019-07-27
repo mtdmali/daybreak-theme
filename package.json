@@ -1,8 +1,10 @@
 {
   "name": "daybreak-theme",
+  "author": "Mike Mali <michaeltdmali@gmail.com> (http://twitter.com/mtdmali)",
+  "version": "0.0.1",
+  "license": "MIT",
   "displayName": "Daybreak",
   "description": "I will fill this in later.",
-  "version": "0.0.1",
   "engines": {
     "vscode": "^1.36.0"
   },
