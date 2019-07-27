@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/mtdmali/daybreak-theme/">
-    <img alt="daybreak banner" src="https://raw.githubusercontent.com/mtdmali/daybreak-theme/master/banner.jpg">
+    <img alt="daybreak banner" src="./banner.jpg">
   </a>
 </p>
 
@@ -9,7 +9,7 @@
 # Visit [daybreaktheme.com](https://daybreaktheme.com/).
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/mtdmali/daybreak-theme/master/preview.png" width="90%">
+  <img alt="preview" src="./preview.png" width="90%">
 </p>
 
 ## Installation
