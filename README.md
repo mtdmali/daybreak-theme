@@ -6,8 +6,6 @@
 
 ---
 
-# Visit [daybreaktheme.com](https://daybreaktheme.com/).
-
 <p align="center">
   <img alt="preview" src="./preview.png" width="90%">
 </p>
