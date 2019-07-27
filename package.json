@@ -7,6 +7,7 @@
     "url": "https://github.com/mtdmali/daybreak-theme"
   },
   "license": "MIT",
+  "publisher": "mtdmali",
   "displayName": "Daybreak",
   "description": "A theme for those who stay up through the night.",
   "icon": "logo.png",
