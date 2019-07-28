@@ -15,7 +15,7 @@
 </p>
 
 <h1 align="center">
-  <a href="https://daybreaktheme.com">daybreaktheme.com</s>
+  <a href="https://daybreaktheme.com">daybreaktheme.com</a>
 </h1>
 
 <p align="center">
