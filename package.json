@@ -9,7 +9,7 @@
   "license": "MIT",
   "publisher": "mtdmali",
   "displayName": "Daybreak",
-  "description": "A theme for those who stay up through the night.",
+  "description": "A VS Code theme for those who work through the night.",
   "icon": "logo.png",
   "engines": {
     "vscode": "^1.36.0"

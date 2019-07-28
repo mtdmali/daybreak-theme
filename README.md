@@ -7,12 +7,16 @@
 ---
 
 <p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=mtdmali.daybreak-theme">
-<img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/mtdmali.daybreak-theme?color=%23FAB28E&style=for-the-badge">
-<img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/mtdmali.daybreak-theme?color=%23FAB28E&style=for-the-badge">
-<img alt="Visual Studio Marketplace Rating (Stars)" src="https://img.shields.io/visual-studio-marketplace/stars/mtdmali.daybreak-theme?color=%23FAB28E&style=for-the-badge">
-</a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=mtdmali.daybreak-theme">
+    <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/mtdmali.daybreak-theme?color=%23FAB28E&style=for-the-badge">
+    <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/mtdmali.daybreak-theme?color=%23FAB28E&style=for-the-badge">
+    <img alt="Visual Studio Marketplace Rating (Stars)" src="https://img.shields.io/visual-studio-marketplace/stars/mtdmali.daybreak-theme?color=%23FAB28E&style=for-the-badge">
+  </a>
 </p>
+
+<h1 align="center">
+  <a href="https://daybreaktheme.com">daybreaktheme.com</s>
+</h1>
 
 <p align="center">
   <img alt="Daybreak preview" src="https://i.imgur.com/zAckDdQ.png" width="90%">
@@ -24,8 +28,8 @@
 2. Search for `Daybreak`
 3. Click **Install**
 4. Open the **Command Palette** with `Ctrl+Shift+P` or `⇧⌘P`
-5. Select **Preferences: Color Theme** and choose **Daybreak**.
-6. Select **Preferences: File Icon Theme** and choose **Daybreak**.
+5. Select **Preferences: Color Theme** and choose **Daybreak**
+6. Select **Preferences: File Icon Theme** and choose **Daybreak**
 7. Enjoy! 🌅 Also, check out some of the personalization options below...
 
 ## Personalization
