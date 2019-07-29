@@ -141,12 +141,28 @@
     "breadcrumbPicker.background": "#232530"
   },
   "tokenColors": [
-    { "name": "Comments", "scope": "comment", "settings": { "foreground": "#BBBBBB4D", "fontStyle": "italic" } },
+    {
+      "name": "Comments",
+      "scope": "comment",
+      "settings": { "foreground": "#BBBBBB4D", "fontStyle": "italic" }
+    },
     { "name": "Constants", "scope": "constant", "settings": { "foreground": "#F09483E6" } },
-    { "name": "Escape characters", "scope": "constant.character.escape", "settings": { "foreground": "#25B0BCE6" } },
+    {
+      "name": "Escape characters",
+      "scope": "constant.character.escape",
+      "settings": { "foreground": "#25B0BCE6" }
+    },
     { "name": "Named entities", "scope": "entity.name", "settings": { "foreground": "#FAC29AE6" } },
-    { "name": "Function names", "scope": "entity.name.function", "settings": { "foreground": "#25B0BCE6" } },
-    { "name": "Tags", "scope": "entity.name.tag", "settings": { "foreground": "#E95678E6", "fontStyle": "bold" } },
+    {
+      "name": "Function names",
+      "scope": "entity.name.function",
+      "settings": { "foreground": "#25B0BCE6" }
+    },
+    {
+      "name": "Tags",
+      "scope": "entity.name.tag",
+      "settings": { "foreground": "#E95678E6" }
+    },
     {
       "name": "Static types",
       "scope": ["entity.name.type", "storage.type.cs"],
@@ -157,7 +173,11 @@
       "scope": "entity.other.attribute-name",
       "settings": { "foreground": "#F09483E6", "fontStyle": "italic" }
     },
-    { "name": "Inherited classes", "scope": "entity.other.inherited-class", "settings": { "foreground": "#FAB795E6" } },
+    {
+      "name": "Inherited classes",
+      "scope": "entity.other.inherited-class",
+      "settings": { "foreground": "#FAB795E6" }
+    },
     {
       "name": "CSS ID selectors",
       "scope": "entity.other.attribute-name.id",
@@ -165,7 +185,10 @@
     },
     {
       "name": "Pseudo CSS",
-      "scope": ["entity.other.attribute-name.pseudo-element", "entity.other.attribute-name.pseudo-class"],
+      "scope": [
+        "entity.other.attribute-name.pseudo-element",
+        "entity.other.attribute-name.pseudo-class"
+      ],
       "settings": { "foreground": "#FAB795E6" }
     },
     {
@@ -173,7 +196,11 @@
       "scope": ["entity.name.variable", "variable"],
       "settings": { "foreground": "#E95678E6" }
     },
-    { "name": "Keywords", "scope": "keyword", "settings": { "foreground": "#B877DBE6", "fontStyle": "italic" } },
+    {
+      "name": "Keywords",
+      "scope": "keyword",
+      "settings": { "foreground": "#B877DBE6", "fontStyle": "italic" }
+    },
     { "name": "Operators", "scope": "keyword.operator", "settings": { "foreground": "#BBBBBB" } },
     {
       "name": "Special operators",
@@ -188,7 +215,7 @@
     {
       "name": "Units",
       "scope": "keyword.other.unit",
-      "settings": { "foreground": "#F09483E6", "fontStyle": "normal" }
+      "settings": { "foreground": "#F09483E6" }
     },
     {
       "name": "Markup quotes",
@@ -200,7 +227,11 @@
       "scope": ["markup.heading", "entity.name.section"],
       "settings": { "foreground": "#E95678E6" }
     },
-    { "name": "Markup bold", "scope": "markup.bold", "settings": { "foreground": "#B877DBE6", "fontStyle": "bold" } },
+    {
+      "name": "Markup bold",
+      "scope": "markup.bold",
+      "settings": { "foreground": "#B877DBE6", "fontStyle": "bold" }
+    },
     {
       "name": "Markup italics",
       "scope": "markup.italic",
@@ -211,18 +242,42 @@
       "scope": ["markup.inline.raw", "markup.fenced_code.block"],
       "settings": { "foreground": "#F09483E6" }
     },
-    { "name": "Markup links", "scope": "markup.underline.link", "settings": { "foreground": "#FAB795E6" } },
+    {
+      "name": "Markup links",
+      "scope": "markup.underline.link",
+      "settings": { "foreground": "#FAB795E6" }
+    },
     {
       "name": "Storage keywords",
       "scope": "storage",
       "settings": { "foreground": "#B877DBE6", "fontStyle": "italic" }
     },
-    { "name": "Strings", "scope": ["string.quoted", "string.template"], "settings": { "foreground": "#FAB795E6" } },
+    {
+      "name": "Strings",
+      "scope": ["string.quoted", "string.template"],
+      "settings": { "foreground": "#FAB795E6" }
+    },
     { "name": "Regex", "scope": "string.regexp", "settings": { "foreground": "#F09483E6" } },
-    { "name": "Markup link descriptions", "scope": "string.other.link", "settings": { "foreground": "#F09483E6" } },
-    { "name": "Provided (support) values", "scope": "support", "settings": { "foreground": "#FAC29AE6" } },
-    { "name": "Provided functions", "scope": "support.function", "settings": { "foreground": "#25B0BCE6" } },
-    { "name": "Provieded variables", "scope": "support.variable", "settings": { "foreground": "#E95678E6" } },
+    {
+      "name": "Markup link descriptions",
+      "scope": "string.other.link",
+      "settings": { "foreground": "#F09483E6" }
+    },
+    {
+      "name": "Provided (support) values",
+      "scope": "support",
+      "settings": { "foreground": "#FAC29AE6" }
+    },
+    {
+      "name": "Provided functions",
+      "scope": "support.function",
+      "settings": { "foreground": "#25B0BCE6" }
+    },
+    {
+      "name": "Provieded variables",
+      "scope": "support.variable",
+      "settings": { "foreground": "#E95678E6" }
+    },
     {
       "name": "Object/JSON property names",
       "scope": ["support.type.property-name", "meta.object-literal.key"],
@@ -247,10 +302,13 @@
     {
       "name": "Tag brackets",
       "scope": "punctuation.definition.tag",
-      // "settings": { "foreground": "#E95678B3", "fontStyle": "bold" }
-      "settings": { "foreground": "#25B0BCE6", "fontStyle": "bold" }
+      "settings": { "foreground": "#25B0BCE6" }
     },
-    { "name": "Key/value separators", "scope": "punctuation.separator", "settings": { "foreground": "#BBBBBB" } },
+    {
+      "name": "Key/value separators",
+      "scope": "punctuation.separator",
+      "settings": { "foreground": "#BBBBBB" }
+    },
     {
       "name": "Template expressions",
       "scope": "punctuation.definition.template-expression",
