@@ -210,7 +210,14 @@
         "keyword.operator.logical",
         "keyword.operator.delete"
       ],
-      "settings": { "foreground": "#B877DBE6" }
+      "settings": { "foreground": "#B877DBE6", "fontStyle": "" }
+    },
+    {
+      "name": "Special operators",
+      "scope": [
+        "keyword.operator.logical",
+      ],
+      "settings": { "fontStyle": "" }
     },
     {
       "name": "Units",
