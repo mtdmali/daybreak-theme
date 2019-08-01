@@ -207,17 +207,17 @@
       "scope": [
         "keyword.operator.new",
         "keyword.operator.expression",
-        "keyword.operator.logical",
         "keyword.operator.delete"
       ],
-      "settings": { "foreground": "#B877DBE6", "fontStyle": "" }
+      "settings": { "foreground": "#B877DBE6", "fontStyle": "italic" }
     },
     {
       "name": "Special operators",
       "scope": [
         "keyword.operator.logical",
+        "keyword.operator.comparison"
       ],
-      "settings": { "fontStyle": "" }
+      "settings": { "foreground": "#BBBBBB", "fontStyle": "" }
     },
     {
       "name": "Units",
