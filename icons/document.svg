@@ -10,5 +10,5 @@
   stroke-linejoin="round"
 >
   <path d="M14.5 54V10H38l11.5 10.5V54h-35z" />
-  <path d="M38 20V12L47 20H38Z" fill="#FAB28E" />
+  <path d="M38 20V11L48 20H38Z" fill="#FAB28E" />
 </svg>
