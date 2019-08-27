@@ -23,6 +23,11 @@
         "label": "Daybreak",
         "uiTheme": "vs-dark",
         "path": "./themes/daybreak-color-theme.json"
+      },
+      {
+        "label": "Daybreak (Italic)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/daybreak-color-theme-italic.json"
       }
     ],
     "iconThemes": [

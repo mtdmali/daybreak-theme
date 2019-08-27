@@ -1,5 +1,5 @@
 {
-  "name": "Daybreak No Italics",
+  "name": "Daybreak",
   "type": "dark",
   "colors": {
     "focusBorder": "#1A1C23",
@@ -144,7 +144,7 @@
     {
       "name": "Comments",
       "scope": "comment",
-      "settings": { "foreground": "#BBBBBB4D", "fontStyle": "" }
+      "settings": { "foreground": "#BBBBBB4D", "fontStyle": "italic" }
     },
     { "name": "Constants", "scope": "constant", "settings": { "foreground": "#F09483E6" } },
     {
@@ -171,7 +171,7 @@
     {
       "name": "Tag attributes",
       "scope": "entity.other.attribute-name",
-      "settings": { "foreground": "#F09483E6", "fontStyle": "" }
+      "settings": { "foreground": "#F09483E6", "fontStyle": "italic" }
     },
     {
       "name": "Inherited classes",
@@ -199,7 +199,7 @@
     {
       "name": "Keywords",
       "scope": "keyword",
-      "settings": { "foreground": "#B877DBE6", "fontStyle": "" }
+      "settings": { "foreground": "#B877DBE6", "fontStyle": "italic" }
     },
     { "name": "Operators", "scope": "keyword.operator", "settings": { "foreground": "#BBBBBB" } },
     {
@@ -209,7 +209,7 @@
         "keyword.operator.expression",
         "keyword.operator.delete"
       ],
-      "settings": { "foreground": "#B877DBE6", "fontStyle": "" }
+      "settings": { "foreground": "#B877DBE6", "fontStyle": "italic" }
     },
     {
       "name": "Special operators",
@@ -227,7 +227,7 @@
     {
       "name": "Markup quotes",
       "scope": "markup.quote",
-      "settings": { "foreground": "#FAB795B3", "fontStyle": "" }
+      "settings": { "foreground": "#FAB795B3", "fontStyle": "italic" }
     },
     {
       "name": "Markup headings",
@@ -241,8 +241,8 @@
     },
     {
       "name": "Markup italics",
-      "scope": "markup.",
-      "settings": { "foreground": "#25B0BCE6", "fontStyle": "" }
+      "scope": "markup.italic",
+      "settings": { "foreground": "#25B0BCE6", "fontStyle": "italic" }
     },
     {
       "name": "Markup code",
@@ -257,7 +257,7 @@
     {
       "name": "Storage keywords",
       "scope": "storage",
-      "settings": { "foreground": "#B877DBE6", "fontStyle": "" }
+      "settings": { "foreground": "#B877DBE6", "fontStyle": "italic" }
     },
     {
       "name": "Strings",
@@ -298,9 +298,9 @@
     {
       "name": "Language variables",
       "scope": ["variable.language"],
-      "settings": { "foreground": "#FAC29AE6", "fontStyle": "" }
+      "settings": { "foreground": "#FAC29AE6", "fontStyle": "italic" }
     },
-    { "name": "Parameters", "scope": "variable.parameter", "settings": { "fontStyle": "" } },
+    { "name": "Parameters", "scope": "variable.parameter", "settings": { "fontStyle": "italic" } },
     {
       "name": "Embedded template punctuation",
       "scope": "string.template meta.embedded",
