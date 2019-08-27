@@ -25,9 +25,9 @@
         "path": "./themes/daybreak-color-theme.json"
       },
       {
-        "label": "Daybreak (Italics)",
+        "label": "Daybreak (Italic)",
         "uiTheme": "vs-dark",
-        "path": "./themes/daybreak-color-theme-italics.json"
+        "path": "./themes/daybreak-color-theme-italic.json"
       }
     ],
     "iconThemes": [
