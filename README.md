@@ -29,12 +29,14 @@
 3. Click **Install**
 4. Open the **Command Palette** with `Ctrl+Shift+P` or `⇧⌘P`
 5. Select **Preferences: Color Theme** and choose **Daybreak**
-6. Select **Preferences: File Icon Theme** and choose **Daybreak**
+6. Select **Preferences: File Icon Theme** and choose a Daybreak variant.
 7. Enjoy! 🌅 Also, check out some of the personalization options below...
 
 ## Personalization
 
-This theme is the byproduct of some very opinionated changes to both <a href="https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode">Horizon Theme</a> and <a href="https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme">Chalice Icon Theme</a>. As such, currently there isn't much in the way of personalization options for this theme.
+This theme is the byproduct of some very opinionated changes to both <a href="https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode">Horizon Theme</a> and <a href="https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme">Chalice Icon Theme</a>.
+
+Included is the default version of the theme, with alternative options that support italic and bold syntax highlighting. I personally use the italic variant, but I encourage you to find an option that works best for you.
 
 _For more info on theming, visit the [Theme Authoring Guide](https://code.visualstudio.com/api/extension-capabilities/theming) and [Theme Color Reference](https://code.visualstudio.com/api/references/theme-color)._
 
